@@ -1,5 +1,5 @@
-![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/aa6b3ae4-546e-4059-8390-3de4d85c7986)
-![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/bbab5bdf-7d12-45ca-b627-e58b0a538b84)
+![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/aa6b3ae4-546e-4059-8390-3de4d85c7986)![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/6846d867-dee4-48ee-861e-d2a896187f41)![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/bbab5bdf-7d12-45ca-b627-e58b0a538b84)
+
 
 # Getting Started with Create React App
 
