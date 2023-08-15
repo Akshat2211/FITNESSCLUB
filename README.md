@@ -1,3 +1,5 @@
+![image](https://github.com/Akshat2211/FITNESSCLUB/assets/104680433/aa6b3ae4-546e-4059-8390-3de4d85c7986)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
